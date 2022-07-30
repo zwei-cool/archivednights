@@ -22084,7 +22084,7 @@ body:not(.cursor-is--active) .site-overlay {
   margin: 0;
   float: left;
   position: absolute;
-  left: -124px;
+  left: -200px;
   z-index: 99999;
   opacity: 0;
   visibility: hidden;
