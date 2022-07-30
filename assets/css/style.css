@@ -688,7 +688,7 @@ pre code {
 .col-auto, .col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
   position: relative;
   width: 100%;
-  padding-right: 15px;
+  padding-right: 0px;
   padding-left: 15px;
 }
 
@@ -18034,7 +18034,7 @@ fieldset[disabled] a.btn {
 }
 .btn-primary:hover {
   color: #222430;
-  background-color: #b7ff45;
+  background-color: #9145ff;
 }
 
 .btn-secondary {
@@ -18043,7 +18043,7 @@ fieldset[disabled] a.btn {
 }
 .btn-secondary:hover {
   color: #222430;
-  background-color: #972eff;
+  background-color: #9145ff;
 }
 
 .btn-tertiary {
@@ -18259,14 +18259,14 @@ input[type=button].btn-block {
   transition: 0.6s transform ease, 0.6s -webkit-transform ease;
 }
 .btn--landing.btn-primary {
-  -webkit-box-shadow: 0 0 40px 2px rgba(163, 255, 18, 0.2);
-          box-shadow: 0 0 40px 2px rgba(163, 255, 18, 0.2);
+  -webkit-box-shadow: 0 0 40px 2px rgba(125, 18, 255, 0.2);
+          box-shadow: 0 0 40px 2px rgba(125, 18, 255, 0.2);
 }
 .btn--landing.btn-primary::before {
-  background-color: #90eb00;
+  background-color: #9a43f0;
 }
 .btn--landing.btn-primary::after {
-  background-color: #88de00;
+  background-color: #ab45ff;
 }
 .btn--landing.btn-secondary {
   -webkit-box-shadow: 0 0 40px 2px rgba(94, 98, 126, 0.2);
@@ -25952,31 +25952,31 @@ body:not(.cursor-is--active) .widget-partners-carousel .slick-arrow {
  *
  */
 .bg--texture-01 {
-  background-image: url("../img/bg-texture-01.jpg");
+  background-image: url("../img/MOSHED-2022-7-30-4-32-56.jpg");
 }
 
 .bg--texture-02 {
-  background-image: url("../img/bg-texture-02.jpg");
+  background-image: url("../img/MOSHED-2022-7-30-4-32-56.jpg");
 }
 
 .bg--texture-03 {
-  background-image: url("../img/bg-texture-03.jpg");
+  background-image: url("../img/MOSHED-2022-7-30-4-32-56.jpg");
 }
 
 .bg--texture-04 {
-  background-image: url("../img/bg-texture-04.jpg");
+  background-image: url("../img/MOSHED-2022-7-30-4-32-56.jpg");
 }
 
 .bg--texture-05 {
-  background-image: url("../img/bg-texture-05.jpg");
+  background-image: url("../img/MOSHED-2022-7-30-4-32-56.jpg");
 }
 
 .bg--texture-06 {
-  background-image: url("../img/bg-texture-06.jpg");
+  background-image: url("../img/MOSHED-2022-7-30-4-32-56.jpg");
 }
 
 .bg--texture-07 {
-  background-image: url("../img/bg-texture-07.jpg");
+  background-image: url("../img/MOSHED-2022-7-30-4-32-56.jpg");
 }
 
 /**
@@ -34159,7 +34159,7 @@ body:not(.cursor-is--active) .team-carousel-tabs__navigation li {
 }
 @media (max-width: 575.98px) {
   .player-info-page__statistics-footer .player-info-detail--hero {
-    width: 100%;
+    width: 150%;
     margin-bottom: 30px;
   }
 }
@@ -34373,7 +34373,7 @@ body:not(.cursor-is--active) .team-carousel-tabs__navigation li {
 }
 @media (min-width: 768px) {
   .player-info-detail__title {
-    font-size: 1.125rem;
+    font-size: 1rem;
   }
 }
 @media (min-width: 1920px) {
