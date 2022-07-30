@@ -61,7 +61,7 @@
   cursor: zoom-out; }
 
 .mfp-zoom {
-  cursor: pointer;
+  cursor: none;
   cursor: -webkit-zoom-in;
   cursor: -moz-zoom-in;
   cursor: zoom-in; }
@@ -107,7 +107,7 @@
 button.mfp-close,
 button.mfp-arrow {
   overflow: visible;
-  cursor: pointer;
+  cursor: none;
   background: transparent;
   border: 0;
   -webkit-appearance: none;
@@ -295,7 +295,7 @@ img.mfp-img {
   max-width: 100%; }
 
 .mfp-gallery .mfp-image-holder .mfp-figure {
-  cursor: pointer; }
+  cursor: none; }
 
 @media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
   /**

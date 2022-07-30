@@ -34,7 +34,7 @@
 }
 .slick-list.dragging
 {
-    cursor: pointer;
+    cursor: none;
     cursor: hand;
 }
 
