@@ -5446,7 +5446,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #007bff;
+  background-color: #972eff;
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
@@ -26053,7 +26053,7 @@ body:not(.cursor-is--active) .widget-partners-carousel .slick-arrow {
 }
 
 .bg--ph-03 {
-  background-image: url("../img/page-heading-img-03.jpg");
+  background-image: url("../img/bg-texture-01.jpg");
 }
 
 .bg--ph-04 {
