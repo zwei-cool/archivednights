@@ -33627,9 +33627,10 @@ body:not(.cursor-is--active) .team-carousel__content > .slick-dots li {
 @media (min-width: 992px) and (max-width: 1199px) {
   .team-carousel__item .col-md-6.col-xl-4 {
     -webkit-box-flex: 0;
-        -ms-flex: 0 0 33.33333%;
-            flex: 0 0 33.33333%;
-    max-width: 33.33333%;
+        -ms-flex: 0 0 66.33333%;
+            flex: 0 0 66.33333%;
+           
+    max-width: 45.33333333%;
   }
 }
 @media (min-width: 1200px) and (max-width: 1439px) {
@@ -34368,6 +34369,7 @@ body:not(.cursor-is--active) .team-carousel-tabs__navigation li {
   color: #972eff;
 }
 .player-info-detail__title {
+  
   font-size: 1rem;
   line-height: 1;
 }
@@ -34432,9 +34434,10 @@ body:not(.cursor-is--active) .team-carousel-tabs__navigation li {
   }
 }
 .player-info-detail__value {
+  width:200px;
   display: block;
   float: left;
-  margin-right: 12px;
+  margin-right: 6px;
   color: #972eff;
 }
 @media (min-width: 375px) {
